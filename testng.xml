@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="automation.testsuite.TrangNguyen.buoi10"/>
+      <class name="automation.testsuite.DucTran.TS_Test"/>
+      <class name="automation.testsuite.TrangNguyen.BTVN09"/>
+      <class name="automation.testsuite.LyTran.Day12_Checkbox"/>
+      <class name="automation.testsuite.LyTran.TS_Test"/>
+      <class name="automation.testsuite.ThangDuong.TS_Test"/>
+      <class name="automation.testsuite.AnTran.TS_Test"/>
+      <class name="automation.testsuite.ThoaLe.TS_Test"/>
+      <class name="automation.testsuite.TrangNguyen.PracticeLocateElement"/>
+      <class name="automation.testsuite.ThaoNguyen.TS_Test"/>
+      <class name="automation.testsuite.DucTran.TS_PracticeLocateElement1"/>
+      <class name="automation.testsuite.NhanNguyen.TS_Test"/>
+      <class name="automation.testsuite.LyTran.Day8_TS_PracticeLocate_Element"/>
+      <class name="automation.testsuite.AnhNgo.TS_Test"/>
+      <class name="automation.testsuite.TrangNguyen.TS_PracticeLocateElement"/>
+      <class name="automation.PageLocator_LyTran.LoginTest"/>
+      <class name="automation.testsuite.DucTran.TS_PracticeLocateElement"/>
+      <class name="automation.testsuite.Day12_MultiCheckbox"/>
+      <class name="automation.testsuite.Day12_Checkbox_Radio_Dropdown"/>
+      <class name="automation.testsuite.ThoaLe.TS_PracticeLocateElement"/>
+      <class name="automation.testsuite.TrangNguyen.LocateElementMayHutMui"/>
+      <class name="automation.testsuite.HienTrinh.TS_Test"/>
+      <class name="automation.testsuite.NganNguyen.TS_Test"/>
+      <class name="automation.testsuite.TrangNguyen.TS_Test"/>
+      <class name="automation.testsuite.AnTran.TS_PracticeLocateElement"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
